@@ -1,3 +1,4 @@
+filename:.env
 filename : s3cfg
 filename : git-credentials
 extension : json http://api.forecast.io
