@@ -1,3 +1,9 @@
+filename : s3cfg
+filename : git-credentials
+extension : json http://api.forecast.io
+jsforce extension : js conn.login
+SF_USERNAME salesforce
+HEROKU_API_KEY language :
 password.sendkeys
 AWSSecretKey
 HEROKU_API_KEY language:json
