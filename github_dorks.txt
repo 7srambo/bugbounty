@@ -1,3 +1,6 @@
+"LdapUsername":
+"ConnectionStrings":
+string_password=
 filename:.env
 filename : s3cfg
 filename : git-credentials
